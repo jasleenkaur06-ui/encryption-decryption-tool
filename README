@@ -1,0 +1,41 @@
+.
+# Encryption Decryption Tool
+
+## Project Description
+This is a simple encryption and decryption tool created using C programming.
+
+The program converts plain text into encrypted text and decrypts it back to the original message.
+
+## Features
+- Encrypt text
+- Decrypt text
+- Simple command line interface
+
+## Technologies Used
+- C Programming
+- String manipulation
+- Basic cryptography logic
+
+## How to Run
+
+1. Compile the program
+gcc encryption.c
+
+2. Run the program
+./a.out
+
+3. Enter message to encrypt or decrypt
+
+## Example
+
+Input:
+hello
+
+Encrypted:
+khoor
+
+Decrypted:
+hello
+
+## Author
+Jasleen Kaur
